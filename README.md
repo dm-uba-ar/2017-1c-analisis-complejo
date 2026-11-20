@@ -1,10 +1,5 @@
 # Análisis Complejo — Primer cuatrimestre de 2017
 
-## Equipo docente
-
-- **Clases teóricas:** Jorge Devoto
-- **Clases prácticas:** Pablo de Nápoli, Pedro Nicolás Tamaroff
-
 ## Prácticas
 
 - [Soluciones](parcial1.pdf)
